@@ -1,0 +1,9 @@
+1. I see a black rectangle and a bunny. When I drag the bunny on the screen, the bunny moves on the other tab as well.
+
+2. Typescript is not dynamic like Javascript is. Instead, we add types to our data to reduce runtime errors. This also requires Typescript to be compiled.
+
+3. Parcel is used to bundle all the code (both vanilla js, and not) we created into a small package that can added to the webpage.
+This is additionally useful with modern frameworks like React, that use huge folders of node_modules.
+Parcel does minification, compressoin, image optimization, and transpiling.
+
+4. 
